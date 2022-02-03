@@ -1,0 +1,13 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+#snow_fall{
+    width: 200%;
+    height: 200vh;
+    background: #262626;
+    background-image: url(img/Snow-Flower-v-kpoplat-.jpg);
+}
